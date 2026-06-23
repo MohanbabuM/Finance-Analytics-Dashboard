@@ -44,3 +44,11 @@ Developed an interactive Finance Analytics Dashboard in Power BI to monitor fina
 ## Business Impact
 
 Enabled stakeholders to monitor financial KPIs in real time, identify growth opportunities, optimize transaction performance, and make informed strategic decisions through a centralized analytics platform.
+
+## Dashboard
+
+<img width="1469" height="785" alt="Finanace Analysis 2" src="https://github.com/user-attachments/assets/30443f7a-fb36-41c3-a070-b534906d24f5" />
+
+<img width="1462" height="783" alt="Overview Analysis 2" src="https://github.com/user-attachments/assets/f94b8f94-1d36-4929-a10a-2f053eff1274" />
+
+
